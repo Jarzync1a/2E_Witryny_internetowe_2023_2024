@@ -1,0 +1,5 @@
+1. |rest    |  styl architektury oprogramowania, opierający się o zbiór określonych reguł opisujących jak definiowane są zasoby, a także umożliwiających dostęp do nich. 
+2. |action  | miejsce do celowe przetwarzania dannych
+3. |value   | Atrybutu value używamy, jeśli chcemy nadać elementowi wartość domyślną, którą użytkownik może, ale nie musi modyfikować. 
+4. |method  | metoda przesylania dannych 
+5. |enctype | służy do określania kodowania danych z formularza przesyłanych na serwer 

@@ -1,0 +1,7 @@
+Nazwa		|	zastosowanie   			  |	znacznik 
+---------------------------------------------------------------------------
+type="submit" 	|	dla wysylania dannych		  |	input 
+scrolling	|	ustwawianie suwaka do przewijania |	frame
+maxlenght	|	limit liczba znakow 	          |	input 
+id="header"	|	indyfikowanie elementow 	  |	brak 
+type="text"	|	wpisywanie tekstow		  |	input 
